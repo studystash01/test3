@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View PDF</title>
+</head>
+<body>
+    <h1>PDF Viewer</h1>
+    <!-- Option 1: Direct link (opens in browser or downloads) -->
+    <p><a href="ACC 200 Test 1 Cheat Sheet.pdf" target="_blank">Open PDF</a></p>
+
+    <!-- Option 2: Embed PDF (works in some browsers) -->
+    <embed src="ACC 200 Test 1 Cheat Sheet.pdf" type="application/pdf" width="100%" height="600px" />
+</body>
+</html>
